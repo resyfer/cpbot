@@ -9,15 +9,15 @@ Get the bot [here](https://discord.com/api/oauth2/authorize?client_id=8499320131
 
 - Setup
 ```
-$ git clone https://github.com/resyfer/cp-ranking.git
-$ cd cp-ranking
-$ npm install
-$ echo "{}" > data.json
+git clone https://github.com/resyfer/cp-ranking.git
+cd cp-ranking
+npm install
+echo "{}" > data.json
 ```
 
 - Environment Variables
 ```
-$ echo "DISCORD_BOT_TOKEN=" > .env
+echo "DISCORD_BOT_TOKEN=" > .env
 ```
   - Open the `.env` file and set it as:
 ```
@@ -26,5 +26,5 @@ DISCORD_BOT_TOKEN=YOUR_BOT_TOKEN
 
 - Make Bot go live
 ```
-$ npm start
+npm start
 ```
