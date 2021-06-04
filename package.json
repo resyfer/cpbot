@@ -1,0 +1,26 @@
+{
+  "name": "cpbot",
+  "version": "1.0.0",
+  "description": "![img](https://img.shields.io/badge/bot%20status-offline-red)&emsp;![img](https://img.shields.io/badge/-NodeJS-green)&emsp;![img](https://img.shields.io/badge/Version-V%201.0.0%20--%20alpha-yellow)",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resyfer/cpbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resyfer/cpbot/issues"
+  },
+  "homepage": "https://github.com/resyfer/cpbot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
