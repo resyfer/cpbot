@@ -9,8 +9,8 @@ Get the bot [here](https://discord.com/api/oauth2/authorize?client_id=8499320131
 
 - Setup
 ```
-git clone https://github.com/resyfer/cp-ranking.git
-cd cp-ranking
+git clone https://github.com/resyfer/cpbot.git
+cd cpbot
 npm install
 echo "{}" > data.json
 ```
